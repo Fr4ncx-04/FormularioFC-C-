@@ -1,0 +1,18 @@
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\bin\Debug\net8.0-windows\Formulario F-C.exe
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\bin\Debug\net8.0-windows\Formulario F-C.deps.json
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\bin\Debug\net8.0-windows\Formulario F-C.runtimeconfig.json
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\bin\Debug\net8.0-windows\Formulario F-C.dll
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\bin\Debug\net8.0-windows\Formulario F-C.pdb
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\obj\Debug\net8.0-windows\Formulario_F_C.Form1.resources
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\obj\Debug\net8.0-windows\Formulario F-C.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\obj\Debug\net8.0-windows\Formulario F-C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\obj\Debug\net8.0-windows\Formulario F-C.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\obj\Debug\net8.0-windows\Formulario F-C.AssemblyInfo.cs
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\obj\Debug\net8.0-windows\Formulario F-C.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\obj\Debug\net8.0-windows\Formulario F-C.sourcelink.json
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\obj\Debug\net8.0-windows\Formulario F-C.dll
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\obj\Debug\net8.0-windows\refint\Formulario F-C.dll
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\obj\Debug\net8.0-windows\Formulario F-C.pdb
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\obj\Debug\net8.0-windows\Formulario F-C.genruntimeconfig.cache
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\obj\Debug\net8.0-windows\ref\Formulario F-C.dll
+C:\Users\DELL\Documents\GitHub\ProgramacionAvanzada\Proyecto\Formulario F-C\Formulario F-C\obj\Debug\net8.0-windows\Formulario_F_C.Properties.Resources.resources

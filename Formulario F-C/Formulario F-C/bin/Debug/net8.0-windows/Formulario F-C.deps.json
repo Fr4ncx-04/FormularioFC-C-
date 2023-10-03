@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Formulario F-C/1.0.0": {
+        "runtime": {
+          "Formulario F-C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Formulario F-C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
